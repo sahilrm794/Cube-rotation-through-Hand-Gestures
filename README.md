@@ -22,10 +22,10 @@ Welcome to the HandControlledCube repository! This project features a basic 3D c
     pip install pygame
     ```
 
-3. Execute either the `cube.py` or `CordReader1.py` script using Python:
+3. Execute either the `Cube.py` or `CordReader1.py` script using Python:
 
     ```
-    python cube.py
+    python Cube.py
     ```
 
     or
